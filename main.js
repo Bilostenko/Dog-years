@@ -5,4 +5,4 @@ let laterYears = myAge -2; /*number of dog years accounted for by your later yea
 laterYears *=4 ;/*  dog years */
 myAgeInDogYears = earlyYears + laterYears; /* my age in dog age */
 myName = "Dima".toLowerCase();
-console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years.`) /* statement */
+console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years.`)
